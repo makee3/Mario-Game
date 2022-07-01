@@ -55,7 +55,7 @@ int main(void)
         printf("\n");
     }
 
-    fflush(stdin);
+    //fflush(stdin);
 
     double x;
     printf("\nThanks for playing! Type 1 and press enter to play again, type anything else and enter to exit. ");
